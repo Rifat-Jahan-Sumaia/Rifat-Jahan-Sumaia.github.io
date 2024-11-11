@@ -1,4 +1,6 @@
 ---
+# Display name
+title: Rifat Jahan Sumaia
 
 # Full name (for SEO)
 first_name: Rifat Jahan
