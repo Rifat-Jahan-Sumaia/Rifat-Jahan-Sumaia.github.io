@@ -1,17 +1,12 @@
 ---
-# Display name
-title: 吳健雄
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Rifat Jahan
+last_name: Sumaia
 
-# Status emoji
-status:
-  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,31 +15,30 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Student (Bsc in Computer Science and Engineering)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Jahangirnagar University
+    url: https://juniv.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:rifatjahansumaia@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/rifat-jahan-sumaia
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/rifat-jahan-sumaia-16b211329/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  
 
 interests:
   - Artificial Intelligence
@@ -183,4 +177,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I’m Rifat Jahan Sumaia, a third-year student at Jahangirnagar University, majoring in Computer Science and Engineering. While I’m currently exploring various aspects of technology, I’m particularly interested in teaching and research. I enjoy learning new concepts and sharing knowledge with others. Though I’m still deciding on my career path, I’m passionate about contributing to both academic and practical advancements in the field of technology. I’m eager to explore opportunities in teaching, research, and development as I continue my studies.
